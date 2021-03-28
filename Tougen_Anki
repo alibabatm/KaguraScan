@@ -5,11 +5,11 @@
   "author": "Urushibara Yura",
   "cover": "https://static.wikia.nocookie.net/tougen_anki/images/d/d4/Volume_3.jpg",
   "chapters": {
-    "17 - Granica obrzydliwości": {
-      "title": "",
+    "17": {
+      "title": "Granica obrzydliwości",
       "volume": "1",
       "groups": {
-        "KaguraScans": "/proxy/api/imgur/chapter/wsXVNjE/"
+        "KaguraScans": "/proxy/api/imgur/chapter/a/wsXVNjE/"
       },
       "last_updated": "1616368746"
     }
